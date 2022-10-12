@@ -45,6 +45,36 @@ br {
 
 <br>
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
+<span> [15] <b>P. Duan</b>, X. Kang, and P. Ghamisi, "Hyperspectral Remote Sensing Benchmark Database for Oil Spill Detection with an Isolation Forest-Guided Unsupervised Detector," <b><i>ArXiv</i></b>. [<a href="https://arxiv.org/abs/2209.14971" target="_blank">PDF</a>] [<a href="https://github.com/PuhongDuan/HOSD" target="_blank">Code</a>]
+</span>
+</p>
+	
+<br>
+<p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
+<span> [14] X. Kang, Z. Wang, <b>P. Duan*</b> and X. Wei, "The Potential of Hyperspectral Image Classification for Oil Spill Mapping," <b><i>IEEE Transactions on Geoscience and Remote Sensing</i></b>, vol. 60, pp. 1-15, 2022, Art no. 5538415. [<a href="https://ieeexplore.ieee.org/document/9887971" target="_blank">PDF</a>] [<a href="https://github.com/PinkSlime/HSI_oil_spill_mapping" target="_blank">Code</a>]
+</span>
+</p>
+
+<br>
+<p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
+<span> [13] <b>P. Duan</b>, S. Hu, X. Kang and S. Li, "Shadow Removal of Hyperspectral Remote Sensing Images With Multiexposure Fusion," <b><i>IEEE Transactions on Geoscience and Remote Sensing</i></b>, vol. 60, pp. 1-11, 2022, Art no. 5537211. [<a href="https://ieeexplore.ieee.org/document/9874905" target="_blank">PDF</a>] [<a href="https://github.com/PuhongDuan/Shadow-Removal-of-Hyperspectral-Remote-Sensing-Images-With-Multiexposure-Fusion" target="_blank">Code</a>]
+</span>
+</p>
+	
+<br>
+<p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
+<span> [12] X. Kang, J. Li, <b>P. Duan*</b>, F. Ma and S. Li, "Multilayer Degradation Representation-Guided Blind Super-Resolution for Remote Sensing Images," <b><i>IEEE Transactions on Geoscience and Remote Sensing</i></b>, vol. 60, pp. 1-12, 2022, Art no. 5534612. [<a href="https://ieeexplore.ieee.org/document/9833534" target="_blank">PDF</a>]
+</span>
+</p>
+
+<br>
+<p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
+<span> [11] <b>P. Duan</b>, Z. Xie, X. Kang, et al. Self-supervised learning-based oil spill detection of hyperspectral images. <b><i>Science China Technological Sciences</i></b>, 2022, 65(4): 793-801. [<a href="https://link.springer.com/article/10.1007/s11431-021-1989-9" target="_blank">PDF</a>]
+</span>
+</p>
+	
+<br>
+<p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
 <span> [10] X. Kang, Z. Fei, <b>P. Duan*</b> and S. Li, "Fog Model-Based Hyperspectral Image Defogging," <b><i>IEEE Transactions on Geoscience and Remote Sensing</i></b>, vol. 60, pp. 1-12, 2022, Art no. 5512512, [<a href="https://ieeexplore.ieee.org/document/9511329" target="_blank">PDF</a>]
 </span>
 </p>
