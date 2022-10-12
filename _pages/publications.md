@@ -63,7 +63,7 @@ br {
 	
 <br>
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
-<span> [12] X. Kang, J. Li, <b>P. Duan*</b>, F. Ma and S. Li, "Multilayer Degradation Representation-Guided Blind Super-Resolution for Remote Sensing Images," <b><i>IEEE Transactions on Geoscience and Remote Sensing</i></b>, vol. 60, pp. 1-12, 2022, Art no. 5534612. [<a href="https://ieeexplore.ieee.org/document/9833534" target="_blank">PDF</a>]
+<span> [12] X. Kang, J. Li, <b>P. Duan*</b>, F. Ma and S. Li, "Multilayer Degradation Representation-Guided Blind Super-Resolution for Remote Sensing Images," <b><i>IEEE Transactions on Geoscience and Remote Sensing</i></b>, vol. 60, pp. 1-12, 2022, Art no. 5534612. [<a href="https://ieeexplore.ieee.org/document/9833534" target="_blank">PDF</a>] [<a href="https://github.com/lijierhhh/MDRGBSR" target="_blank">Code</a>]
 </span>
 </p>
 
