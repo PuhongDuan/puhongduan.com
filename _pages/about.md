@@ -12,9 +12,11 @@ I am currently a post-doctoral researcher at the College of Electrical and Infor
 
 News
 ======
-* [09/2022] Our IEEE TGRS paper "Shadow Removal of Hyperspectral Remote Sensing Images With Multiexposure Fusion" has been accepted!
+<ul>
+<li> <b><font color="#FF0000">[2022.09]</font></b> One paper "Shadow Removal of Hyperspectral Remote Sensing Images With Multiexposure Fusion" has been accepted by IEEE TGRS!</li>
 
-* [09/2022] Served as the **Leading Guest Editor** of Frontiers in Remote Sensing Special Issue: [Weakly Supervised Learning for Remote Sensing Image Interpretation](https://www.frontiersin.org/research-topics/47418/weakly-supervised-learning-for-remote-sensing-image-interpretation).
-
+<li> <b><font color="#FF0000">[2022.09]</font></b> Served as the **Leading Guest Editor** of Frontiers in Remote Sensing Special Issue: [Weakly Supervised Learning for Remote Sensing Image Interpretation](https://www.frontiersin.org/research-topics/47418/weakly-supervised-learning-for-remote-sensing-image-interpretation).</li>
+</ul>
+<br />
 
 
