@@ -42,6 +42,12 @@ br {
 
 <font face = "Times New Roman" size="3"> 
 <ul>
+
+<br>	
+<p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
+<span> [3] <b>Duan P<b>, Kang X, Li S, et al., "Noise-robust hyperspectral image classification via multi-scale total variation," <i><b>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</b></i>, 2019, 12(6): 1948-1962.[<a href="[https://ieeexplore.ieee.org/abstract/document/8725896]" target="_blank">PDF</a>] [<a href="[https://github.com/PuhongDuan/MSTV-Noise-Robust-Hyperspectral-Image-Classification-via-Multi-Scale-Total-Variation]" target="_blank">Code</a>]
+</span>
+</p>		
 	
 <br>	
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
