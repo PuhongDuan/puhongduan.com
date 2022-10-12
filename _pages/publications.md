@@ -45,7 +45,7 @@ br {
 
 <br>	
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
-<span> [3] <b>Duan P<b>, Kang X, Li S, et al., "Noise-robust hyperspectral image classification via multi-scale total variation," <i><b>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</b></i>, 2019, 12(6): 1948-1962.[<a href="[https://ieeexplore.ieee.org/abstract/document/8725896]" target="_blank">PDF</a>] [<a href="[https://github.com/PuhongDuan/MSTV-Noise-Robust-Hyperspectral-Image-Classification-via-Multi-Scale-Total-Variation]" target="_blank">Code</a>]
+<span> [4] <b>Duan P<b>, Kang X, Li S, et al., "Noise-robust hyperspectral image classification via multi-scale total variation," <i><b>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</b></i>, 2019, 12(6): 1948-1962.[<a href="[https://ieeexplore.ieee.org/abstract/document/8725896]" target="_blank">PDF</a>] [<a href="[https://github.com/PuhongDuan/MSTV-Noise-Robust-Hyperspectral-Image-Classification-via-Multi-Scale-Total-Variation]" target="_blank">Code</a>]
 </span>
 </p>		
 	
@@ -66,3 +66,6 @@ br {
 <span> [1] M. Yin, <b>P. Duan*</b>, W. Liu, and X. Liang, "A novel infrared and visible image fusion algorithm based on shift-invariant dual-tree complex shearlet transform and sparse representation," <i><b>Neurocomputing</b></i>, 2017, 226: 182-191.[<a href="[https://www.sciencedirect.com/science/article/abs/pii/S0925231216314667]" target="_blank">PDF</a>]
 </span>
 </p>
+
+</ul>
+</font>
