@@ -44,6 +44,6 @@ br {
 <ul>
 
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
-<span> [1] M. Yin, <b>P. Duan*</b>, W. Liu, and X. Liang, "A novel infrared and visible image fusion algorithm based on shift-invariant dual-tree complex shearlet transform and sparse representation," <i>Neurocomputing (<b>Neurocomputing</b>)</i> [<a href="[https://www.sciencedirect.com/science/article/abs/pii/S0925231216314667]" target="_blank">PDF</a>]
+<span> [1] M. Yin, <b>P. Duan*</b>, W. Liu, and X. Liang, "A novel infrared and visible image fusion algorithm based on shift-invariant dual-tree complex shearlet transform and sparse representation," <i><b>Neurocomputing</b></i>, 2017, 226: 182-191.[<a href="[https://www.sciencedirect.com/science/article/abs/pii/S0925231216314667]" target="_blank">PDF</a>]
 </span>
 </p>
