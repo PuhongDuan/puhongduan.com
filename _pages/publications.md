@@ -56,7 +56,7 @@ br {
 	
 <br>	
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
-<span> [2] X. Kang, P. Duan, S. Li and J. A. Benediktsson, "Decolorization-based hyperspectral image visualization," <i><b>IEEE Transactions on Geoscience and Remote Sensing</b></i>, 2018, 56(8): 4346-4360.[<a href="https://ieeexplore.ieee.org/document/8335335/" target="_blank">PDF</a>]
+<span> [2] X. Kang, <b>P. Duan</b>, S. Li and J. A. Benediktsson, "Decolorization-based hyperspectral image visualization," <i><b>IEEE Transactions on Geoscience and Remote Sensing</b></i>, 2018, 56(8): 4346-4360.[<a href="https://ieeexplore.ieee.org/document/8335335/" target="_blank">PDF</a>]
 </span>
 </p>
 	
