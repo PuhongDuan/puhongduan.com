@@ -42,8 +42,8 @@ br {
 
 <font face = "Times New Roman" size="3"> 
 <ul>
-  
-<div id="text-img-container"><div id="img-container"><img src="./images/Txt2Img-MHN.png" alt="" width="180px" /></div>
-<div id="text-container"><p><b>Y. Xu</b>, W. Yu, P. Ghamisi, M. Kopp, and S. Hochreiter, &ldquo;<a href="https://arxiv.org/abs/2208.04441" target=&rdquo;blank&ldquo;>Txt2Img-MHN: Remote sensing image generation from text using modern hopfield networks</a>,&rdquo; <i>arXiv preprint arXiv:2208.04441</i>, 2022.<br />
-<a href="https://arxiv.org/abs/2208.04441" target=&ldquo;blank&rdquo;>[<tt>Paper</tt>]</a> <a href="https://github.com/yonghaoxu/txt2img-mhn" target=&ldquo;blank&rdquo;>[<tt>Code</tt>]</a> </p>
-</div></div>
+
+<p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
+<span> [1] M. Yin, <b>P. Duan</b>, W. Liu, and X. Liang, "A novel infrared and visible image fusion algorithm based on shift-invariant dual-tree complex shearlet transform and sparse representation," <i>Neurocomputing (<b>Neurocomputing</b>)</i> [<a href="[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9793723](https://www.sciencedirect.com/science/article/abs/pii/S0925231216314667)" target="_blank">PDF</a>]
+</span>
+</p>
