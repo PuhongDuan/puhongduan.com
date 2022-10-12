@@ -48,9 +48,8 @@ br {
 </span>
 </p>		
 	
-<br>	
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
-<span> [3] Kang X, <b>Duan P<b>, Xiang X, et al., "Detection and correction of mislabeled training samples for hyperspectral image classification," <i><b>IEEE Transactions on Geoscience and Remote Sensing</b></i>, 2018, 56(10): 5673-5686.[<a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231216314667" target="_blank">PDF</a>] [<a href="https://github.com/PuhongDuan/Hyperspectral-image-visualization" target="_blank">Code</a>]
+<span> [3] Kang X, <b>Duan P<b>, Xiang X, et al., "Detection and correction of mislabeled training samples for hyperspectral image classification," <i><b>IEEE Transactions on Geoscience and Remote Sensing</b></i>, 2018, 56(10): 5673-5686.[<a href="  " target="_blank">PDF</a>] [<a href="https://github.com/PuhongDuan/Hyperspectral-image-visualization" target="_blank">Code</a>]
 </span>
 </p>	
 	
