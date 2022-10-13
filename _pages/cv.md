@@ -11,49 +11,54 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in School of Mathematics and Statistics, Suzhou University, 2014
+* M.S. in School of Mathematics, Hefei University of Technology,   2017 
+* Ph.D in Control Science and Engineering, Hunan University,       2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021-now: Post-doc Researcher
+  * Hunan University
+  * Mentor: Shutao Li
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022-now: Associate Researcher
+  * Hunan University
   
-Skills
+Award
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* “Sun Glint Removal of Hyperspectral Images via Texture-aware Total Variation” is selected as one of the 10 Student Paper Competition Finalists in IGARSS 2020
+* Best Reviewer Award of the IEEE Geoscience and Remote Sensing Letters in 2021
+* Outstanding Graduate Student, Hunan Province in 2021
+* National Scholarship for Graduate Student, Ministry of Education in 2019
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Publications
+#======
+#  <ul>{% for post in site.publications %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+#Talks
+#======
+#  <ul>{% for post in site.talks %}
+#    {% include archive-single-talk-cv.html %}
+#  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Teaching
+#======
+#  <ul>{% for post in site.teaching %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Associate Editor of Frontiers in Remote Sensing 
+* Reviewer for the following journals:
+  * IEEE Transactions on Geoscience and Romote Sensing
+  * IEEE Transactions on Image Processing
+  * IEEE Transactions on Industrial Informatics
+  * IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+  * IEEE Geoscience and Remote Sensing Letters
+  * Information Fusion
+  * Remote Sensing
+  * Signal Processing
+  * IET Image Processing
