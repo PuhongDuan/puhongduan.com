@@ -13,9 +13,13 @@ I am currently a post-doctoral researcher at the College of Electrical and Infor
 News
 ======
 <ul>
+<li> <b><font color="#FF0000">[2022.09]</font></b> One paper "The Potential of Hyperspectral Image Classification for Oil Spill Mapping" has been accepted by IEEE TGRS!</li>
+ 
 <li> <b><font color="#FF0000">[2022.09]</font></b> One paper "Shadow Removal of Hyperspectral Remote Sensing Images With Multiexposure Fusion" has been accepted by IEEE TGRS!</li>
 
 <li> <b><font color="#FF0000">[2022.09]</font></b> Served as the <b>Leading Guest Editor</b> of Frontiers in Remote Sensing Special Issue: <b>Weakly Supervised Learning for Remote Sensing Image Interpretation</b> (<a href="https://www.frontiersin.org/research-topics/47418/weakly-supervised-learning-for-remote-sensing-image-interpretation" target="_blank">link</a>).</li>
+ 
+<li> <b><font color="#FF0000">[2022.08]</font></b> One paper "Multilayer Degradation Representation-Guided Blind Super-Resolution for Remote Sensing Images" has been accepted by IEEE TGRS!</li>
 </ul>
 <br />
 
