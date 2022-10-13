@@ -30,24 +30,6 @@ Award
 * Best Reviewer Award of the IEEE Geoscience and Remote Sensing Letters in 2021
 * Outstanding Graduate Student, Hunan Province in 2021
 * National Scholarship for Graduate Student, Ministry of Education in 2019
-
-#Publications
-#======
-#  <ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
-#Talks
-#======
-#  <ul>{% for post in site.talks %}
-#    {% include archive-single-talk-cv.html %}
-#  {% endfor %}</ul>
-  
-#Teaching
-#======
-#  <ul>{% for post in site.teaching %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
   
 Service and leadership
 ======
