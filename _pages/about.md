@@ -13,6 +13,8 @@ I am currently a post-doctoral researcher at the College of Electrical and Infor
 News
 ======
 <ul>
+<li> <b><font color="#FF0000">[2022.10]</font></b> One paper "Fast Hyperspectral Image Dehazing with Dark-Object Subtraction Model" has been accepted by IEEE GRSL!</li>
+  
 <li> <b><font color="#FF0000">[2022.09]</font></b> One paper "The Potential of Hyperspectral Image Classification for Oil Spill Mapping" has been accepted by IEEE TGRS!</li>
  
 <li> <b><font color="#FF0000">[2022.09]</font></b> One paper "Shadow Removal of Hyperspectral Remote Sensing Images With Multiexposure Fusion" has been accepted by IEEE TGRS!</li>
