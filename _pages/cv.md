@@ -37,7 +37,9 @@ Service and leadership
 * Reviewer for the following journals:
   * IEEE Transactions on Geoscience and Romote Sensing
   * IEEE Transactions on Image Processing
+  * IEEE Transactions on Neural Networks and Learning Systems
   * IEEE Transactions on Industrial Informatics
+  * IEEE Transactions on Circuits and Systems for Video Technology
   * IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
   * IEEE Geoscience and Remote Sensing Letters
   * Information Fusion
