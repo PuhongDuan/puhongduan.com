@@ -14,7 +14,7 @@ News
 ======
 <ul>
 
-<li> <b><font color="#FF0000">[2023.10]</font></b> Served as the <b>Leading Guest Editor</b> of Remote Sensing Special Issue: <b>Recent Advances in Remote Sensing Image Processing Technology</b> (<a href="[https://www.frontiersin.org/research-topics/47418/weakly-supervised-learning-for-remote-sensing-image-interpretation](https://www.mdpi.com/journal/remotesensing/special_issues/4ZEOP3RS52)" target="_blank">link</a>).</li>
+<li> <b><font color="#FF0000">[2023.10]</font></b> Served as the <b>Leading Guest Editor</b> of Remote Sensing Special Issue: <b>Recent Advances in Remote Sensing Image Processing Technology</b> (<a href="[https://www.mdpi.com/journal/remotesensing/special_issues/4ZEOP3RS52]" target="_blank">link</a>).</li>
 
 <li> <b><font color="#FF0000">[2023.12]</font></b> One paper "SOSNet: Real-Time Small Object Segmentation via Hierarchical Decoding and Example Mining" has been accepted by IEEE TNNLS!</li>
 
