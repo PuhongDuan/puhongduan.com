@@ -45,7 +45,37 @@ br {
 
 <br>
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
-<span> [15] <b>P. Duan</b>, X. Kang, and P. Ghamisi, "Hyperspectral Remote Sensing Benchmark Database for Oil Spill Detection with an Isolation Forest-Guided Unsupervised Detector," <b><i>ArXiv</i></b>. [<a href="https://arxiv.org/abs/2209.14971" target="_blank">PDF</a>] [<a href="https://github.com/PuhongDuan/HOSD" target="_blank">Code</a>]
+<span> [20] W. Liu, X. Kang, <b>P. Duan*</b>, Z. Xie, X. Wei and S. Li, "SOSNet: Real-Time Small Object Segmentation via Hierarchical Decoding and Example Mining," in IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2023.3338732. [<a href="https://ieeexplore.ieee.org/document/10359121" target="_blank">PDF</a>]
+</span>
+</p>
+
+<br>
+<p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
+<span> [19] X. Lu, <b>P. Duan*</b>, X. Kang and B. Deng, "Edge-Guided Hyperspectral Change Detection," in IEEE Geoscience and Remote Sensing Letters, vol. 20, pp. 1-5, 2023, Art no. 5512205. [<a href="https://ieeexplore.ieee.org/document/10316367" target="_blank">PDF</a>]
+</span>
+</p>
+
+<br>
+<p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
+<span> [18] X. Kang, B. Deng, <b>P. Duan*</b>, X. Wei and S. Li, "Self-Supervised Spectral–Spatial Transformer Network for Hyperspectral Oil Spill Mapping," in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-10, 2023, Art no. 5507410. [<a href="https://ieeexplore.ieee.org/document/10078874" target="_blank">PDF</a>]
+</span>
+</p>
+
+<br>
+<p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
+<span> [17] Y. Zhang, <b>P. Duan*</b>, J. Mao, X. Kang, L. Fang and P. Ghamisi, "Contour Structural Profiles: An Edge-Aware Feature Extractor for Hyperspectral Image Classification," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-14, 2022, Art no. 5545914. [<a href="https://ieeexplore.ieee.org/document/9984678" target="_blank">PDF</a>]
+</span>
+</p>
+
+<br>
+<p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
+<span> [16] Z. Li, <b>P. Duan*</b>, S. Hu, M. Li and X. Kang, "Fast Hyperspectral Image Dehazing With Dark-Object Subtraction Model," in IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022, Art no. 6014905. [<a href="https://ieeexplore.ieee.org/document/9931669" target="_blank">PDF</a>] [<a href="https://github.com/PuhongDuan/Hyperspectral-Dehazing" target="_blank">Code</a>]
+</span>
+</p>
+
+<br>
+<p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
+<span> [15] <b>P. Duan</b>, X. Kang, and P. Ghamisi, "Hyperspectral Remote Sensing Benchmark Database for Oil Spill Detection with an Isolation Forest-Guided Unsupervised Detector," <b><i>IEEE Transactions on Geoscience and Remote Sensing</i></b>, vol. 61, pp. 1-11, 2023, Art no. 5509711. [<a href="https://ieeexplore.ieee.org/document/10106124" target="_blank">PDF</a>] [<a href="https://github.com/PuhongDuan/HOSD" target="_blank">Code</a>]
 </span>
 </p>
 	
