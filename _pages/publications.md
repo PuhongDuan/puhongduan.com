@@ -45,13 +45,13 @@ br {
 
 <br>
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
-<span> [20] W. Liu, X. Kang, <b>P. Duan*</b>, Z. Xie, X. Wei and S. Li, "SOSNet: Real-Time Small Object Segmentation via Hierarchical Decoding and Example Mining," in IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2023.3338732. [<a href="https://ieeexplore.ieee.org/document/10359121" target="_blank">PDF</a>]
+<span> [20] W. Liu, X. Kang, <b>P. Duan*</b>, Z. Xie, X. Wei and S. Li, "SOSNet: Real-Time Small Object Segmentation via Hierarchical Decoding and Example Mining," in IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2023.3338732. [<a href="https://ieeexplore.ieee.org/document/10359121" target="_blank">PDF</a>][<a href="https://github.com/StuLiu/SOSNet" target="_blank">Code</a>]
 </span>
 </p>
 
 <br>
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
-<span> [19] X. Lu, <b>P. Duan*</b>, X. Kang and B. Deng, "Edge-Guided Hyperspectral Change Detection," in IEEE Geoscience and Remote Sensing Letters, vol. 20, pp. 1-5, 2023, Art no. 5512205. [<a href="https://ieeexplore.ieee.org/document/10316367" target="_blank">PDF</a>]
+<span> [19] X. Lu, <b>P. Duan*</b>, X. Kang and B. Deng, "Edge-Guided Hyperspectral Change Detection," in IEEE Geoscience and Remote Sensing Letters, vol. 20, pp. 1-5, 2023, Art no. 5512205. [<a href="https://ieeexplore.ieee.org/document/10316367" target="_blank">PDF</a>][<a href="https://github.com/lucious2012/EGHCD" target="_blank">Code</a>]
 </span>
 </p>
 
