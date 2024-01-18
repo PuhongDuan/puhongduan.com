@@ -75,7 +75,7 @@ br {
 
 <br>
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
-<span> [17] Y. Zhang, <b>P. Duan*</b>, J. Mao, X. Kang, L. Fang and P. Ghamisi, "Contour Structural Profiles: An Edge-Aware Feature Extractor for Hyperspectral Image Classification," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-14, 2022, Art no. 5545914. [<a href="https://ieeexplore.ieee.org/document/9984678" target="_blank">PDF</a>]
+<span> [17] Y. Zhang, <b>P. Duan*</b>, J. Mao, X. Kang, L. Fang and P. Ghamisi, "Contour Structural Profiles: An Edge-Aware Feature Extractor for Hyperspectral Image Classification," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-14, 2022, Art no. 5545914. [<a href="https://ieeexplore.ieee.org/document/9984678" target="_blank">PDF</a>] [<a href="https://github.com/zhangying1214/MSSP" target="_blank">Code</a>]
 </span>
 </p>
 
