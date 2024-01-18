@@ -45,7 +45,7 @@ br {
 
 <br>
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
-<span> [22] C. Li, B. Rasti, X. Tang, P. Duan, J. Li and Y. Peng, "Channel-Layer-Oriented Lightweight Spectral-Spatial Network for Hyperspectral Image Classification," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2024.3350055. [<a href="https://ieeexplore.ieee.org/abstract/document/10381732" target="_blank">PDF</a>]
+<span> [22] C. Li, B. Rasti, X. Tang, <b>P. Duan*</b>, J. Li and Y. Peng, "Channel-Layer-Oriented Lightweight Spectral-Spatial Network for Hyperspectral Image Classification," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2024.3350055. [<a href="https://ieeexplore.ieee.org/abstract/document/10381732" target="_blank">PDF</a>]
 </span>
 </p>
 
