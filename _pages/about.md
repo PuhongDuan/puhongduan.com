@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a post-doctoral researcher at the College of Electrical and Information Engineering, Hunan University. Before that, I received the Ph.D. degree in Control Science and Engineering from Hunan University, advised by Prof. Xudong Kang and Prof. Shutao Li. My research interests include remote sensing, computer vision, and machine learning.
+I am currently an associate researcher at the College of Electrical and Information Engineering, Hunan University. Before that, I received the Ph.D. degree in Control Science and Engineering from Hunan University, advised by Prof. Xudong Kang and Prof. Shutao Li. My research interests include remote sensing, computer vision, and machine learning.
 
 News
 ======
