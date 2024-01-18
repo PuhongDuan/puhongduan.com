@@ -45,6 +45,12 @@ br {
 
 <br>
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
+<span> [22] C. Li, B. Rasti, X. Tang, P. Duan, J. Li and Y. Peng, "Channel-Layer-Oriented Lightweight Spectral-Spatial Network for Hyperspectral Image Classification," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2024.3350055. [<a href="https://ieeexplore.ieee.org/abstract/document/10381732" target="_blank">PDF</a>]
+</span>
+</p>
+
+<br>
+<p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
 <span> [21] X. Kang, Y. Zhu, <b>P. Duan*</b> and S. Li, "Two-Dimensional Spectral Representation," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-9, 2024, Art no. 5502809. [<a href="https://ieeexplore.ieee.org/abstract/document/10363213" target="_blank">PDF</a>][<a href="https://github.com/zhuyongxiang1/two-dimensional-spectral-representation" target="_blank">Code</a>]
 </span>
 </p>
