@@ -45,6 +45,12 @@ br {
 
 <br>
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
+<span> [21] X. Kang, Y. Zhu, <b>P. Duan*</b> and S. Li, "Two-Dimensional Spectral Representation," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-9, 2024, Art no. 5502809. [<a href="https://ieeexplore.ieee.org/abstract/document/10363213" target="_blank">PDF</a>][<a href="https://github.com/zhuyongxiang1/two-dimensional-spectral-representation" target="_blank">Code</a>]
+</span>
+</p>
+
+<br>
+<p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
 <span> [20] W. Liu, X. Kang, <b>P. Duan*</b>, Z. Xie, X. Wei and S. Li, "SOSNet: Real-Time Small Object Segmentation via Hierarchical Decoding and Example Mining," in IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2023.3338732. [<a href="https://ieeexplore.ieee.org/document/10359121" target="_blank">PDF</a>][<a href="https://github.com/StuLiu/SOSNet" target="_blank">Code</a>]
 </span>
 </p>
